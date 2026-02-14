@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+output_clusters/
+input_images/
+.env
